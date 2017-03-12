@@ -1,2 +1,5 @@
 # oh-my-python
-python relative configuration
+
+  ```
+  sh -c "$(https://raw.githubusercontent.com/mintisan/oh-my-python/master/install.sh)"
+  ```
